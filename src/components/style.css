@@ -1,0 +1,18 @@
+.cart{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;   
+  
+}
+
+.icon{
+    color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 5em;
+}
+
+
